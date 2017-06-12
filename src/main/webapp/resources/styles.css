@@ -1,0 +1,42 @@
+
+
+.homepage{
+
+    background-size: cover;
+    display: table;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url("/resources/newstorefront.jpg");
+    background-repeat: no-repeat;
+    background-color: #cccccc;
+    background-position: center;
+    background-attachment: fixed;
+
+    color: white;
+}
+
+
+.CustReg {
+
+    background-size: cover;
+    display: table;
+    background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url("/resources/coffeecupbeans.jpg");
+    background-repeat: no-repeat;
+    background-color: #cccccc;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+    color: white;
+}
+.coffStore {
+
+    background-size: cover;
+    display: table;
+    background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url("/resources/coffeecup.jpg");
+    background-repeat: no-repeat;
+    background-color: #cccccc;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+    color: white;
+}
